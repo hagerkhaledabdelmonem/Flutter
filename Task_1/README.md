@@ -18,6 +18,15 @@ Write test code to create several pizzas and output their descriptions. For exam
 
 Create a PizzaOrder class that allows you to save pizzas in an order. Each pizza saved should be a Pizza object. Create a method calcTotal() that returns the cost of the order.
 
+## Class_diagrams:
+
+<p align="center">
+
+![Class_diagrams](https://github.com/hagerkhaledabdelmonem/Flutter/assets/92521186/b4351edc-f42d-48e8-b026-f18014c81785)
+
+</p>
+
+## Main & Output :
 
 <p align="center">
   
