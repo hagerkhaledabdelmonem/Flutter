@@ -8,7 +8,7 @@ Constructor(s) that set all of the instance variables.
 A public method named calcCost( ) returns double that is the cost of the pizza.
 
 
-##### Pizza cost is determined by:
+#### Pizza cost is determined by:
 
 - Small: $10 + $2 per topping
 - Medium: $12 + $2 per topping
