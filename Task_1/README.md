@@ -16,4 +16,4 @@ Write test code to create several pizzas and output their descriptions. For exam
   - Large: $14 + $2 per topping
 
 
-- Create a PizzaOrder class that allows you to save pizzas in an order. Each pizza saved should be a Pizza object. Create a method calcTotal() that returns the cost of the order.
+Create a PizzaOrder class that allows you to save pizzas in an order. Each pizza saved should be a Pizza object. Create a method calcTotal() that returns the cost of the order.
