@@ -18,7 +18,7 @@ Write test code to create several pizzas and output their descriptions. For exam
 
 Create a PizzaOrder class that allows you to save pizzas in an order. Each pizza saved should be a Pizza object. Create a method calcTotal() that returns the cost of the order.
 
-## Class_diagrams:
+## Class_diagrams :
 
 <p align="center">
 
